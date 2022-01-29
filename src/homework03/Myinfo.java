@@ -16,9 +16,16 @@ public class Myinfo {
 
 	public long my_bank_balance = 856676758448394l;
 
+	
+	
+	
+	
 	public static void main(String[] args) {
 
-		Myinfo myinfo = new Myinfo();
+
+		
+		
+		
 
 	}
 

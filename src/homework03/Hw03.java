@@ -11,6 +11,7 @@ public class Hw03 {
 	
 	
 	public boolean  uscitizen =true;
+	// this is main math
 	
 	
 	public static void main(String[] args) {
